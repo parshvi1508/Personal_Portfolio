@@ -43,7 +43,7 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background: linear-gradient(135deg, rgba(0, 31, 63, 0.7), rgba(46, 204, 64, 0.7));
+  background: linear-gradient(135deg, #2B2B2B, #5C4B8A, #EAB8C8);
   padding: 20px;
 }
 
@@ -184,13 +184,13 @@ body {
 }
 
 .project-tile a:hover {
-  color: #2ECC40; /* Green on hover */
+  color:linear-gradient(120deg, #2B2B2B, #5C4B8A, #EAB8C8); 
 }
 
 /* Profile Link Section */
 #profile-link-section {
   padding: 50px 20px;
-  background: linear-gradient(120deg, #2ECC40, #001f3f);
+  background: linear-gradient(120deg, #2B2B2B, #5C4B8A, #EAB8C8);
   text-align: center;
   color: white;
   transition: background-color 0.3s ease;
