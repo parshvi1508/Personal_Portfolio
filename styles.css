@@ -5,7 +5,7 @@
 body {
   margin: 0;
   font-family: 'Lora', serif;
-  background: linear-gradient(120deg, #001f3f, #39CCCC, #2ECC40);
+  background: linear-gradient(120deg, #2B2B2B, #5C4B8A, #EAB8C8);
   color: white;
   scroll-behavior: smooth;
 }
@@ -15,7 +15,7 @@ body {
   position: fixed;
   top: 0;
   width: 100%;
-  background: linear-gradient(90deg, #001f3f, #39CCCC, #2ECC40);
+  background: linear-gradient(90deg, #2B2B2B, #5C4B8A, #EAB8C8);
   padding: 15px;
   z-index: 1000;
   display: flex;
@@ -74,7 +74,7 @@ body {
 /* Education Section */
 #education {
   padding: 50px 20px;
-  background: linear-gradient(120deg, #2ECC40, #39CCCC);
+  background: linear-gradient(120deg, #2B2B2B, #5C4B8A, #EAB8C8);
   color: white;
 }
 
